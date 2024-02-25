@@ -12,6 +12,7 @@ This Java application demonstrates file operations over a network using socket p
 1. Compile the Java files using `javac`.
 2. Start the server by running `java Server`.
 3. Execute the client using `java Client` to connect and perform operations.
+4. This program is expected to be run on a Linux machine.
 
 ## Prerequisites
 - Java Runtime Environment (JRE) and Java Development Kit (JDK).
