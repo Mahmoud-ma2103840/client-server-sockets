@@ -1,7 +1,7 @@
 # Java File Operations Client-Server Application
 
 ## Overview
-This Java application demonstrates file operations over a network using socket programming. It includes a server that manages services and coordinates file operations, alongside a client that performs requests and handles responses.
+This Java application demonstrates file operations over a network using socket programming and multi-threading. It includes a server that manages services and coordinates file operations, alongside a client that performs requests and handles responses.
 
 ## Features
 - Network communication using Java sockets.
