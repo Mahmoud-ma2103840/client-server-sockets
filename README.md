@@ -21,3 +21,8 @@ Contributions to enhance functionality or documentation are welcome. Please fork
 
 ## License
 This project is provided under the MIT [License](LICENSE).
+
+## Acknowledgments
+- This project was completed alongside 3 other colleagues, their identities were not revealed for privacy reasons.
+- Special thanks to Qatar University College of Engineering for the guidance.
+- Appreciation to Eng. Aws for lab instruction.
